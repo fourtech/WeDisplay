@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :onsdk_all:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5918ad8af2dceb16495e5d0b660bb3aa/jetified-onsdk_all/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5918ad8af2dceb16495e5d0b660bb3aa/jetified-onsdk_all/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5918ad8af2dceb16495e5d0b660bb3aa/jetified-onsdk_all/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

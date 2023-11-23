@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: :NaviTts:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a5532cc7e6eca3f8e5b3b25a9b4c9f20/NaviTts/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1cc8bec3470974c1fc364920c1a615b/jetified-NaviTts/jars/libs/galaxy-2.6.6.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1cc8bec3470974c1fc364920c1a615b/jetified-NaviTts/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1cc8bec3470974c1fc364920c1a615b/jetified-NaviTts/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1cc8bec3470974c1fc364920c1a615b/jetified-NaviTts/jars/libs/com.baidu.tts_3.2.7.a926c31_20211029105631.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1cc8bec3470974c1fc364920c1a615b/jetified-NaviTts/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

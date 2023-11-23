@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:lrefs" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:lrefs" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:for" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:for" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:refa" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:refa" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:for" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:res" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:res" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:for" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:resf" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:resf" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:for" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:rrefs" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:rrefs" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:for" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:trfs" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:trfs" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:for" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:v15.9.0_sdk_auto" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3534424-b5dc-410a-9ac4-b2ca9b1cc3fa" name="Default Changelist" comment="[v15.4.0_sdk][OpenSdk][carnavi-405] 合并滴滴、sctx代码">
+      <change beforePath="$PROJECT_DIR$/../../../BaiduNavi/dependence/business/navi-sdk/proguard-sdk.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BaiduNavi/dependence/business/navi-sdk/proguard-sdk.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BaiduNavi/dependence/business/navi-sdk/src/main/java/com/baidu/navisdk/adapter/BNaviCommonParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BaiduNavi/dependence/business/navi-sdk/src/main/java/com/baidu/navisdk/adapter/BNaviCommonParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BaiduNavi/dependence/business/navi-sdk/src/main/java/com/baidu/navisdk/adapter/IBNOuterSettingManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BaiduNavi/dependence/business/navi-sdk/src/main/java/com/baidu/navisdk/adapter/IBNOuterSettingManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BaiduNavi/dependence/business/navi-sdk/src/main/java/com/baidu/navisdk/adapter/IBNRoutePlanManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BaiduNavi/dependence/business/navi-sdk/src/main/java/com/baidu/navisdk/adapter/IBNRoutePlanManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BaiduNavi/dependence/business/navi-sdk/src/main/java/com/baidu/navisdk/adapter/impl/BNRoutePlanManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BaiduNavi/dependence/business/navi-sdk/src/main/java/com/baidu/navisdk/adapter/impl/BNRoutePlanManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BaiduNavi/dependence/business/navi-sdk/src/main/java/com/baidu/navisdk/adapter/struct/BNGuideConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BaiduNavi/dependence/business/navi-sdk/src/main/java/com/baidu/navisdk/adapter/struct/BNGuideConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BaiduNavi/dependence/platform/api/src/main/java/com/baidu/navisdk/BNaviSDKVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BaiduNavi/dependence/platform/api/src/main/java/com/baidu/navisdk/BNaviSDKVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BaiduNavi/sdkpack/Android 导航SDK.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BaiduNavi/sdkpack/Android 导航SDK.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BaiduNavi/sdkpack/Android 导航SDK5.3.0.0开发指南.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BaiduNavi/sdkpack/Android 导航SDK5.3.0.0开发指南.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BaiduNavi/sdkpack/sdkConfig.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BaiduNavi/sdkpack/sdkConfig.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/onsdk_all.aar" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/onsdk_all.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/baidu/mapclient/liteapp/activity/DemoMainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/baidu/mapclient/liteapp/activity/DemoMainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libapp_BaiduNaviApplib.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libapp_BaiduNaviApplib.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libapp_BaiduNaviApplib.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libapp_BaiduNaviApplib.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libBDSpeechDecoder_V1.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libBaiduMapSDK_base_v7_5_0.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libBaiduMapSDK_map_for_navi_v7_5_0.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libapp_BaiduNaviApplib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libbd_etts.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libbd_tts_log.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libgnustl_shared.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libtiny_magic.so" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[GCL5T20109005875]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ONSDKDemo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ONSDKDemo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ONSDKDemo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ONSDKDemo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ONSDKDemo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ONSDKDemo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="cleanup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ONSDKDemo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ONSDKDemo" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ONSDKDemo" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ONSDKDemo" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ONSDKDemo" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="$USER_HOME$/Untitled" />
+    <option name="KEY_ALIAS" value="123456" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../../.." value="v15.9.0_sdk" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="1jqyL6jdEq8DKei87dfIV3HeoQf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="ONSDKDemo.app" />
+    <property name="BundleExportedModule" value="ONSDKDemo.app" />
+    <property name="DEBUGGABLE_DEVICE" value="huawei-tas_an00-GCL5T20109005875" />
+    <property name="DEBUGGABLE_PROCESS" value="com.baidu.mapclient.liteapp" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android-custom-view/Users/v_zhangguibin/dev/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/java/com/baidu/mapclient/liteapp/custom/BNScrollLayout.java_SELECTED" value="BNScrollLayout" />
+    <property name="android-custom-view/Users/v_zhangguibin/dev/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/java/com/baidu/mapclient/liteapp/custom/BNScrollView.java_SELECTED" value="BNScrollView" />
+    <property name="android-custom-view/Users/v_zhangguibin/dev/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/java/com/baidu/mapclient/liteapp/future/FutureTripDateTimePickerView.java_SELECTED" value="FutureTripDateTimePickerView" />
+    <property name="android-custom-view/Users/v_zhangguibin/dev/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/java/liteapp/custom/BNScrollLayout.java_SELECTED" value="BNScrollLayout" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/libs" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1604545901483" />
+    <property name="multi-representation-preview/Users/v_zhangguibin/dev/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/java/com/baidu/mapclient/liteapp/custom/BNScrollLayout.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/v_zhangguibin/dev/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/java/com/baidu/mapclient/liteapp/custom/BNScrollView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/v_zhangguibin/dev/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/java/com/baidu/mapclient/liteapp/future/FutureTripDateTimePickerView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/v_zhangguibin/dev/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo/app/src/main/java/liteapp/custom/BNScrollLayout.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="BUILD_VARIANTS_TAB" value="Flavors" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="debug" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.baidu.mapclient" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.baidu.mapclient.liteapp.future" />
+      <recent name="com.baidu.mapclient.liteapp" />
+      <recent name="com.baidu.mapclient.liteapp.routeresult" />
+      <recent name="com.baidu.mapclient.liteapp.fragment" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/libs" />
+      <recent name="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a" />
+      <recent name="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="ONSDKDemo.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3534424-b5dc-410a-9ac4-b2ca9b1cc3fa" name="Default Changelist" comment="" />
+      <created>1604545857996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604545857996</updated>
+    </task>
+    <task id="LOCAL-00001" summary="[v15.1.0_sdk][OpenSdk][carnaci-405] onsdk demo 更新">
+      <created>1604546818363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604546818363</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[v15.1.0_sdk][OpenSdk][carnavi-405] onsdk demo 更新">
+      <created>1604546926545</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604546926545</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[v15.1.0_sdk][OpenSdk][carnavi-405] onsdk demo 更新&#10;&#10;Change-Id: I6e2f4f1b6d224c591ce87a441782db5a6ed72dc2">
+      <created>1604547391643</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604547391643</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[v15.1.0_sdk][OpenSdk][carnavi-405] onsdk demo 更新aar">
+      <created>1604549002589</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604549002590</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[v15.4.0_sdk][OpenSdk][carnavi-405] 合并滴滴、sctx代码">
+      <created>1629717216555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629717216555</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[v15.4.0_sdk][carnavi-405][SDK] 新增sctx上传路线接口&#10;&#10;Change-Id: Id9beef2d0782ab0d39462c92864d7d0c135fd38d">
+      <created>1631002259428</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631002259428</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[v15.9.0_sdk] [MAP-NAV-548] 新增检索、未来出行&#10;&#10;Change-Id: I6a4f5661f77c39433a0b7e165acf1e88034968fc">
+      <created>1639537046168</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1639537046168</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/v_zhangguibin/dev/baidu/mapnavi/map-navi-android/OpenSDK/onsdk/ONSDKDemo" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="v15.9.0_sdk_auto" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[v15.1.0_sdk][OpenSdk][carnaci-405] onsdk demo 更新" />
+    <MESSAGE value="[v15.1.0_sdk][OpenSdk][carnavi-405] onsdk demo 更新" />
+    <MESSAGE value="[v15.1.0_sdk][OpenSdk][carnavi-405] onsdk demo 更新&#10;&#10;Change-Id: I6e2f4f1b6d224c591ce87a441782db5a6ed72dc2" />
+    <MESSAGE value="[v15.1.0_sdk][OpenSdk][carnavi-405] onsdk demo 更新aar" />
+    <MESSAGE value="[v15.4.0_sdk][carnavi-405][SDK] 新增sctx上传路线接口&#10;&#10;Change-Id: Id9beef2d0782ab0d39462c92864d7d0c135fd38d" />
+    <MESSAGE value="[v15.4.0_sdk][OpenSdk][carnavi-405] 合并滴滴、sctx代码" />
+    <MESSAGE value="[v15.9.0_sdk] [MAP-NAV-548] 新增检索、未来出行&#10;&#10;Change-Id: I6a4f5661f77c39433a0b7e165acf1e88034968fc" />
+    <option name="LAST_COMMIT_MESSAGE" value="[v15.9.0_sdk] [MAP-NAV-548] 新增检索、未来出行&#10;&#10;Change-Id: I6a4f5661f77c39433a0b7e165acf1e88034968fc" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="165" y="126" key="#PSD" timestamp="1644825448912">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="165" y="126" key="#PSD/0.23.1280.729@0.23.1280.729" timestamp="1644825448912" />
+    <state x="420" y="141" key="AndroidProcessChooserDialog" timestamp="1644989677041">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="420" y="141" key="AndroidProcessChooserDialog/0.23.1280.729@0.23.1280.729" timestamp="1644989677041" />
+    <state x="0" y="23" width="1204" height="729" key="CommitChangelistDialog2" timestamp="1644406067509">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="0" y="23" width="1204" height="729" key="CommitChangelistDialog2/0.23.1280.729@0.23.1280.729" timestamp="1644406067509" />
+    <state x="100" y="123" width="1080" height="529" key="DiffContextDialog" timestamp="1644309721857">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="100" y="123" width="1080" height="529" key="DiffContextDialog/0.23.1280.729@0.23.1280.729" timestamp="1644309721857" />
+    <state width="1236" height="293" key="GridCell.Tab.0.bottom" timestamp="1644989842259">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1236" height="293" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1644989842259" />
+    <state width="1236" height="293" key="GridCell.Tab.0.center" timestamp="1644989842258">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1236" height="293" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1644989842258" />
+    <state width="1236" height="293" key="GridCell.Tab.0.left" timestamp="1644989842258">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1236" height="293" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1644989842258" />
+    <state width="1236" height="293" key="GridCell.Tab.0.right" timestamp="1644989842258">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1236" height="293" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1644989842258" />
+    <state width="1236" height="293" key="GridCell.Tab.1.bottom" timestamp="1644989842260">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1236" height="293" key="GridCell.Tab.1.bottom/0.23.1280.729@0.23.1280.729" timestamp="1644989842260" />
+    <state width="1236" height="293" key="GridCell.Tab.1.center" timestamp="1644989842259">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1236" height="293" key="GridCell.Tab.1.center/0.23.1280.729@0.23.1280.729" timestamp="1644989842259" />
+    <state width="1236" height="293" key="GridCell.Tab.1.left" timestamp="1644989842259">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1236" height="293" key="GridCell.Tab.1.left/0.23.1280.729@0.23.1280.729" timestamp="1644989842259" />
+    <state width="1236" height="293" key="GridCell.Tab.1.right" timestamp="1644989842259">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1236" height="293" key="GridCell.Tab.1.right/0.23.1280.729@0.23.1280.729" timestamp="1644989842259" />
+    <state x="132" y="87" key="RollbackChangesDialog" timestamp="1644982495953">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="132" y="87" key="RollbackChangesDialog/0.23.1280.729@0.23.1280.729" timestamp="1644982495953" />
+    <state x="149" y="26" key="SettingsEditor" timestamp="1644825712196">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="149" y="26" key="SettingsEditor/0.23.1280.729@0.23.1280.729" timestamp="1644825712195" />
+    <state x="245" y="76" key="VCS.ChangeListViewerDialog" timestamp="1639475971479">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="245" y="76" key="VCS.ChangeListViewerDialog/0.23.1280.729@0.23.1280.729" timestamp="1639475971479" />
+    <state width="640" height="358" key="XDebugger.FullValuePopup" timestamp="1644989743993">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="640" height="358" key="XDebugger.FullValuePopup/0.23.1280.729@0.23.1280.729" timestamp="1644989743993" />
+    <state width="700" height="420" key="com.android.tools.idea.apk.viewer.dex.GenerateProguardKeepRuleAction" timestamp="1637327033502">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="700" height="420" key="com.android.tools.idea.apk.viewer.dex.GenerateProguardKeepRuleAction/0.23.1280.729@0.23.1280.729" timestamp="1637327033502" />
+    <state width="1280" height="729" key="com.android.tools.idea.apk.viewer.dex.ShowDisassemblyAction" timestamp="1637327637200">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1280" height="729" key="com.android.tools.idea.apk.viewer.dex.ShowDisassemblyAction/0.23.1280.729@0.23.1280.729" timestamp="1637327637200" />
+    <state x="100" y="123" width="1080" height="529" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1638414865485">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="100" y="123" width="1080" height="529" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1280.729@0.23.1280.729" timestamp="1638414865485" />
+    <state x="431" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1644821574348">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="431" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.729@0.23.1280.729" timestamp="1644821574348" />
+    <state x="169" y="123" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1637238142361">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="169" y="123" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1280.729@0.23.1280.729" timestamp="1637238142361" />
+    <state x="159" y="148" width="1002" height="518" key="find.popup" timestamp="1644837607833">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="159" y="148" width="1002" height="518" key="find.popup/0.23.1280.729@0.23.1280.729" timestamp="1644837607833" />
+    <state x="305" y="38" width="670" height="676" key="search.everywhere.popup" timestamp="1644395764655">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="305" y="38" width="670" height="676" key="search.everywhere.popup/0.23.1280.729@0.23.1280.729" timestamp="1644395764655" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4becba9dee715fa424cca4caf0f44c41/jetified-onsdk_all/jars/classes.jar!/com/baidu/navisdk/ui/routeguide/mapmode/RGMapModeViewController.class</url>
+          <line>4317</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4becba9dee715fa424cca4caf0f44c41/jetified-onsdk_all/jars/classes.jar!/com/baidu/navisdk/ui/routeguide/mapmode/RGMapModeViewController.class</url>
+          <line>916</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4becba9dee715fa424cca4caf0f44c41/jetified-onsdk_all/jars/classes.jar!/com/baidu/navisdk/util/jar/JarUtils.class</url>
+          <line>191</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60ce0974bb9e3d22d8f1b298c7047ff0/jetified-onsdk_all/jars/classes.jar!/com/baidu/navisdk/adapter/impl/BNOuterSettingManager.class</url>
+          <line>728</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a8a57d9aea5f185051dcc03b3c6ac7dd/jetified-onsdk_all/jars/classes.jar!/com/baidu/navcore/tts/d.class</url>
+          <line>160</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/baidu/mapclient/liteapp/activity/DemoGuideActivity.java</url>
+          <line>187</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/baidu/mapclient/liteapp/activity/DemoGuideActivity.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/baidu/mapclient/liteapp/activity/DemoGuideActivity.java</url>
+          <line>176</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/baidu/mapclient/liteapp/activity/DemoMainActivity.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/baidu/mapclient/liteapp/activity/DemoMainActivity.java</url>
+          <line>214</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
